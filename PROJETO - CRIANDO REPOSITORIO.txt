@@ -41,3 +41,5 @@ Para Repositório criado novo (do zero)
 para criar arquivos html, ts e css, automaticamente em uma pasta, fazer: ng g c user/user-form-view (https://angular.io/cli/generate)
 
 frontend => crtl+h (find and replace)
+
+teclas shift+alt+seta para baixo, duplica a linha acima
