@@ -9,3 +9,9 @@ let ano = 2020;
 
 console.log(idade);
 console.log(Idade);
+
+// não fazer
+// mes = "Janeiro";
+
+
+
